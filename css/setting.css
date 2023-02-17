@@ -1,0 +1,8 @@
+.dark-mode-body {
+    background-color: rgb(31, 31, 31);
+    color: whitesmoke !important;
+}
+
+.dark-mode-gameBox {
+    background-color: rgb(102, 102, 102) !important;
+}
